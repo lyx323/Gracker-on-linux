@@ -2,7 +2,7 @@
 Gracker(2017,PAMI) on linux
 
 # run
-cd biuld
+cd build
 #
 cmake ..
 #
